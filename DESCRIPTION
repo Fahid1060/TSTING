@@ -1,0 +1,14 @@
+Package: TSTING
+Type: Package
+Title: What the Package Does in One 'Title Case' Line
+Version: 1.0
+Date: 2021-09-28
+Author: Your Name
+Maintainer: Your Name <your@email.com>
+Description: One paragraph description of what the package does as one or
+        more full sentences.
+License: GPL (>= 2)
+Depends: R(>= 3.4), Seurat, M3Drop
+Imports: Rcpp (>= 1.0.7),RcppArmadillo (>= 0.8.100.1.0)
+LinkingTo: Rcpp,RcppArmadillo
+RoxygenNote: 7.1.2
